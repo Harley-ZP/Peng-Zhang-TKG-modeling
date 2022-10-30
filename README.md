@@ -8,4 +8,4 @@ Things are still being uploaded.
 Let's get the code running.
 
 ### Step 1:
-  python preprocess.py
+    python preprocess.py
