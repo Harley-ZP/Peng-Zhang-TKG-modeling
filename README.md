@@ -11,8 +11,8 @@ Let's get the code running.
     python preprocess.py
 ### Step 2:
     python mle_dirichlet.py
-### Step 3:
+### Step 3(train the model):
     python main.py --cuda --do_train --reward_shaping
     
-### Step 4:
+### Step 4(test the model):
     python main.py --cuda --do_test --IM
