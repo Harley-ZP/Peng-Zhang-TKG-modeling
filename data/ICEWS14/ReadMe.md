@@ -1,6 +1,6 @@
 ## operate.ipynb
   Codes for generating the rules
-## rules1.json
+## rule1.json
   The rules that we mined.
 
 ##
